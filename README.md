@@ -20,7 +20,7 @@ A girl who loves to code. I'm a web developer based in **Dresden, Germany**, bui
 
 ### 🌐 Find me
 
-[LinkedIn](https://www.linkedin.com/in/lilyan-aldimashki-246168aa/) · [baski.ai](https://baski.ai)
+[LinkedIn](https://www.linkedin.com/in/lilyan-aldimashki-246168aa/) · [baski.ai](https://baski.ai) .[chazi.ai](https://chazi.ai)
 
 ### 🏙️ My year in code
 
