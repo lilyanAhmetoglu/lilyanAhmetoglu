@@ -31,7 +31,7 @@ A chat-first, AI print-on-demand app. An **AI sales agent** takes a customer fro
 | **[Parallelo Session](https://github.com/lilyanAhmetoglu/parallelo)** | VS Code extension for parallel AI coding agents (Claude Code, Codex, aider). Diff, file tree and status bar follow the active terminal. A conflict radar warns when two sessions edit the same file. On the VS Code Marketplace and Open VSX. |
 | **[roundtable](https://github.com/lilyanAhmetoglu/roundtable)** | MCP server for multi-agent design review. Two coding agents debate a plan in a shared room; the server enforces turns, round budget and closure. Lock-free, crash-safe design. On npm as `roundtable-mcp`. |
 | **[Sigmorai](https://github.com/lilyanAhmetoglu/sigmorai)** | Open-source RPG for learning AI engineering ([sigmorai.com](https://sigmorai.com)). RAG mentor on Claude with Voyage AI embeddings in pgvector, with token and cost tracking per question. Playwright E2E and WCAG 2.1 AA checks on every PR. |
-| **From Vectors to Transformers** | Open course and book (202 pages, 41 lessons, 82 figures). It takes a software engineer from linear algebra to reading *Attention Is All You Need* line by line. |
+| **[From Vectors to Transformers](https://github.com/lilyanAhmetoglu/from-vector-to-transformers)** | Open course and book (202 pages, 41 lessons, 82 figures). It takes a software engineer from linear algebra to reading *Attention Is All You Need* line by line. **[Volume two](https://github.com/lilyanAhmetoglu/from-transformers-to-papers)** (lessons 42–70) covers tuning, using and measuring LLMs, and reading the papers behind them. |
 
 ---
 
